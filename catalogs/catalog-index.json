@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "builds": {
+    "qJfFO": {
+      "cosmetics": "cosmetics.qJfFO.json",
+      "maps": "maps.qJfFO.json",
+      "categories": {
+        "back": "cosmetics/backs.qJfFO.json",
+        "body": "cosmetics/bodies.qJfFO.json",
+        "charm": "cosmetics/charms.qJfFO.json",
+        "dye": "cosmetics/dyes.qJfFO.json",
+        "face": "cosmetics/faces.qJfFO.json",
+        "hat": "cosmetics/hats.qJfFO.json",
+        "head": "cosmetics/heads.qJfFO.json",
+        "melee": "cosmetics/melee.qJfFO.json",
+        "pet": "cosmetics/pets.qJfFO.json",
+        "shoes": "cosmetics/shoes.qJfFO.json",
+        "spray": "cosmetics/sprays.qJfFO.json",
+        "unknown-10": "cosmetics/unknown-10.qJfFO.json",
+        "unknown-13": "cosmetics/unknown-13.qJfFO.json",
+        "waist": "cosmetics/waist.qJfFO.json",
+        "weapon": "cosmetics/weapons.qJfFO.json",
+        "wrist": "cosmetics/wrist.qJfFO.json"
+      },
+      "generatedAt": "2026-10-04T00:00:00Z",
+      "counts": {
+        "cosmetics": 5838,
+        "maps": 7173,
+        "capturedMaps": 5,
+        "textureTypes": 15
+      },
+      "sha256": {
+        "cosmetics.qJfFO.json": "f5e67ea2b4e00a6410f8bd05631ab52383dcc5766fa985b88a7d0ea95f45112c",
+        "maps.qJfFO.json": "90c966f352d1d6325d81a65475158c6526a796820ccd78aa6421fb5127a85e1f",
+        "cosmetics/backs.qJfFO.json": "fd8a125d8a99a6dffc9679f8bff55befa896543028a75d916f3bc7298f78f135",
+        "cosmetics/bodies.qJfFO.json": "3d45cd7f6518b738d1a62006f9f66f1cfab811a8a44d541ca210c00ea4e135d6",
+        "cosmetics/charms.qJfFO.json": "f6eaa6aa2b40462164143719de38281350e34cdfececf5515653aa6d6c5c09d9",
+        "cosmetics/dyes.qJfFO.json": "f215f672af3e7c0fd3d2e2ffdc1254cdd762342b5f1a545cd05603c86dfc1875",
+        "cosmetics/faces.qJfFO.json": "5693502ebc7f5f3833fcb64a912e7d733368c4895cfc5f46f3649dac70192748",
+        "cosmetics/hats.qJfFO.json": "4028dff2fa60c826f009c85fc123aa99b51ab49eb641f5bc7651283f7bfef8bb",
+        "cosmetics/heads.qJfFO.json": "e0b7ed0a9a782ce72e647b531783b565d1d77326880927fd29ca673b9acaf156",
+        "cosmetics/melee.qJfFO.json": "b2ac5d1d104bcd8a97584f5f12fbeb69e4fb4f9f86809195e6dbec2b398f0d82",
+        "cosmetics/pets.qJfFO.json": "e27133f9bfd43d61fdbc969df5daea0051b72c154cea90952872424d16464bc9",
+        "cosmetics/shoes.qJfFO.json": "c16441a5932a7889f231747377ba47d2c0361d97ab2782c7d593f3efcff3bd41",
+        "cosmetics/sprays.qJfFO.json": "22646d96544b8d89849af3bd6bf67f9c596c7550227662ef20d9f44b9f249ceb",
+        "cosmetics/unknown-10.qJfFO.json": "1fc0d3882b2a4f8548af86a74ac506e92e3c77f04bfd9a4efcba059d052d1cc9",
+        "cosmetics/unknown-13.qJfFO.json": "7045603a758cb7935cecd5b511cbaf164b72611c2fe11a0690cb828cc3a078de",
+        "cosmetics/waist.qJfFO.json": "850bfdaa96d99538bb5d5c4485e3b86d85e7f5c213615503a56503645c589f63",
+        "cosmetics/weapons.qJfFO.json": "cd89a07a29b26ef02dea96e9f532798fdc410edb376c5b56523165899c681193",
+        "cosmetics/wrist.qJfFO.json": "88dea0d117404ea2e0bbfc61942f64a8e6e8bc36996ffa1dcf97ab97f8d31827"
+      },
+      "hosting": {
+        "provider": "github-raw",
+        "repository": "bl4d3rvnner7/krunker-catalogs",
+        "branch": "main",
+        "baseRawUrl": "https://raw.githubusercontent.com/bl4d3rvnner7/krunker-catalogs/main/catalogs/"
+      }
+    }
+  }
+}
