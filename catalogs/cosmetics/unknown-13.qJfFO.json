@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "gameBuild": "qJfFO",
+  "generatedAt": "2026-10-04T00:00:00Z",
+  "source": "HAR /data/skins JSONPack; complete records only",
+  "complete": false,
+  "identity": "catalogIndex; id is an asset variant, NOT unique",
+  "category": "unknown-13",
+  "count": 4,
+  "definitions": [
+    {
+      "id": 0,
+      "name": "Season 6 Starter Ticket",
+      "noQuickSell": true,
+      "noSpin": true,
+      "rarity": 0,
+      "seas": 6,
+      "spinWheel": {
+        "buttonColor": "#BFF06C",
+        "headCol": "#b2f252",
+        "icons": 2,
+        "language": "windows.store.spin.type.starter",
+        "name": "Starter",
+        "rarities": [
+          75,
+          22,
+          3,
+          0,
+          0,
+          0
+        ],
+        "season": 6,
+        "ticketIndex": 5321
+      },
+      "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0.png",
+      "tradable": true,
+      "type": 13,
+      "catalogIndex": 5321,
+      "category": "unknown-13",
+      "season": 6
+    },
+    {
+      "id": 0,
+      "name": "Season 6 Elite Ticket",
+      "noQuickSell": true,
+      "noSpin": true,
+      "rarity": 2,
+      "seas": 6,
+      "spinWheel": {
+        "buttonColor": "#4994EC",
+        "headCol": "#2196F3",
+        "icons": 3,
+        "language": "windows.store.spin.type.elite",
+        "name": "Elite",
+        "rarities": [
+          50,
+          30,
+          15,
+          5,
+          0,
+          0
+        ],
+        "season": 6,
+        "ticketIndex": 5322
+      },
+      "tex": 1,
+      "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_1.png",
+      "tradable": true,
+      "type": 13,
+      "catalogIndex": 5322,
+      "category": "unknown-13",
+      "season": 6
+    },
+    {
+      "id": 0,
+      "name": "Season 6 Heroic Ticket",
+      "noQuickSell": true,
+      "noSpin": true,
+      "rarity": 4,
+      "seas": 6,
+      "spinWheel": {
+        "bigRar": 5,
+        "buttonColor": "#EE9D38",
+        "headCol": "#fc9803",
+        "icons": 4,
+        "language": "windows.store.spin.type.heroic",
+        "name": "Heroic",
+        "rarities": [
+          0,
+          48,
+          35,
+          14,
+          2.49,
+          0.5,
+          0.01
+        ],
+        "season": 6,
+        "ticketIndex": 5323
+      },
+      "tex": 2,
+      "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_2.png",
+      "tradable": true,
+      "type": 13,
+      "catalogIndex": 5323,
+      "category": "unknown-13",
+      "season": 6
+    },
+    {
+      "id": 0,
+      "name": "Season 6 Ultra Ticket",
+      "noQuickSell": true,
+      "noSpin": true,
+      "rarity": 5,
+      "seas": 6,
+      "spinWheel": {
+        "bigRar": 5,
+        "buttonColor": "#EE9D38",
+        "headCol": "#ed4242",
+        "icons": 4,
+        "language": "windows.store.spin.type.heroic",
+        "name": "Ultra",
+        "rarities": [
+          0,
+          28,
+          53,
+          13.5,
+          4.46,
+          1,
+          0.04
+        ],
+        "season": 6,
+        "ticketIndex": 5324,
+        "ticketOnly": true
+      },
+      "tex": 3,
+      "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_3.png",
+      "tradable": true,
+      "type": 13,
+      "catalogIndex": 5324,
+      "category": "unknown-13",
+      "season": 6
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "gameBuild": "qJfFO",
+  "generatedAt": "2026-10-04T00:00:00Z",
+  "source": "HAR /data/skins JSONPack; complete records only",
+  "complete": false,
+  "identity": "catalogIndex; id is an asset variant, NOT unique",
+  "category": "wrist",
+  "count": 1,
+  "definitions": [
+    {
+      "animS": 1,
+      "env": 3,
+      "hasAnim": true,
+      "id": 0,
+      "keyW": "Wrist",
+      "name": "Krönix Gold",
+      "noLeftSleeve": true,
+      "opensea": {
+        "collection": "krunker-collection",
+        "token_ids": [
+          "74697719826051577493818655527991922081470530244873636834369931981808346333185",
+          "74697719826051577493818655527991922081470530244873636834369931982907857960961",
+          "74697719826051577493818655527991922081470530244873636834369931984007369588737",
+          "74697719826051577493818655527991922081470530244873636834369931985106881216513",
+          "74697719826051577493818655527991922081470530244873636834369931986206392844289"
+        ]
+      },
+      "rarity": 7,
+      "seas": 5,
+      "syRot": 3.1416,
+      "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/11_0.png",
+      "tradable": true,
+      "type": 11,
+      "catalogIndex": 4249,
+      "category": "wrist",
+      "season": 5
+    }
+  ]
+}
